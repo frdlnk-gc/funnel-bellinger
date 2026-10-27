@@ -1,0 +1,146 @@
+{
+  "firma": "Elektrobau Bellinger",
+  "stelle": "Tiefbaufacharbeiter (m/w/d)",
+  "ort": "Unstrut-Hainich",
+  "plz": "99991",
+  "region_badge": "Unstrut-Hainich & Hildburghausen",
+  "farbe_primary": "#DC1F35",
+  "farbe_secondary": "#2B2B29",
+  "benefit_top": "Kurzer Freitag",
+  "stellen_frage": "An welchem Standort möchtest du arbeiten?",
+  "stellen": [
+    {
+      "label": "Tiefbaufacharbeiter (m/w/d) – Unstrut-Hainich",
+      "sub": "Standort Schönstedt · Vollzeit, unbefristet",
+      "icon": "🚜"
+    },
+    {
+      "label": "Tiefbaufacharbeiter (m/w/d) – Hildburghausen",
+      "sub": "Standort Hildburghausen · Vollzeit, unbefristet",
+      "icon": "🏗️"
+    }
+  ],
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag und marktgerechte Vergütung",
+    "Kurzer Freitag",
+    "Jahresprämie",
+    "Voll ausgestatteter Firmenwagen und Firmenhandy",
+    "Starke betriebliche Altersvorsorge mit hohem Zuschuss",
+    "Anhängerführerschein: Kosten werden übernommen",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Interne Karrierechancen und flache Hierarchien",
+    "Fahrtkostenzuschuss, Jobrad-Leasing und Fitnessstudio-Mitgliedschaft",
+    "Getränke-Flatrate, Mitarbeiter-Events und Rabatte bei Partnerunternehmen"
+  ],
+  "aufgaben": [
+    "Tiefbauarbeiten im Kabel- und Leitungsbau",
+    "Böschungen und Randbefestigungen anlegen",
+    "Oberflächen- und Pflasterarbeiten ausführen",
+    "Baustellen einrichten und absichern",
+    "Alle Baumaschinen bedienen und Baugeräte transportieren"
+  ],
+  "anforderung": "Ausgebildeter Tiefbaufacharbeiter oder vergleichbare Qualifikation – auch als Tiefbauer, Polier, GaLa-Bauer oder Rohrleitungsbauer mit Erfahrung bist du richtig. Baggerschein und LKW-Führerschein sind wünschenswert.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Tiefbau",
+      "icon": "🚧",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Tiefbaufacharbeiter",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier",
+          "icon": "⭐"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Rohrleitungsbau",
+      "icon": "🔧",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Rohrleitungsbauer",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "GaLaBau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahrung auf dem Bau",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "270",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1979",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "9",
+        "label": "Standorte"
+      }
+    ],
+    "text": "Die Schleicher Gruppe mit Elektrobau Bellinger, BAGERA Bau, BBP Planungs- & Projektierungs GmbH und Rohrleitungsbau Bellinger sorgt dafür, dass Strom, Daten, Gas und Wasser zuverlässig fließen – an neun Standorten in Hessen, Thüringen und Bayern. Mit der Anbindung von Wind- und Sonnenenergie treibt das Team die Energiewende aktiv voran."
+  },
+  "kunde_tab": "34 Elektrobau Bellinger",
+  "quelle": "https://bellinger.green-careers.de",
+  "branche": "strassen_tiefbau",
+  "logo": "logo.png",
+  "hero_bild": "img/hero-arbeiter-bohrgeraet.jpg",
+  "bilder": [
+    "img/foto-01-team-lachen.jpg",
+    "img/foto-02-kabelzug.jpg",
+    "img/foto-03-rohr-verlegen.jpg",
+    "img/foto-04-plan-baustelle.jpg",
+    "img/foto-05-bagger-einweisung.jpg",
+    "img/foto-06-minibagger.jpg",
+    "img/foto-07-graben-strasse.jpg",
+    "img/foto-08-bagger.jpg",
+    "img/foto-10-kabeltrommel.jpg",
+    "img/foto-11-team-standort.jpg",
+    "img/foto-12-team-gruppe.jpg"
+  ],
+  "karte": null,
+  "meta_geo": [
+    "Schönstedt, 99991 Unstrut-Hainich",
+    "98646 Hildburghausen"
+  ]
+}
