@@ -1,0 +1,86 @@
+[
+ {
+  "name": "u3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-08-bagger.jpg",
+  "primary": "#DC1F35",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN UNSTRUT-HAINICH",
+  "headline": [
+   "Tiefbau-",
+   "facharbeiter (m/w/d)"
+  ],
+  "subline": "Unbefristet · Kurzer Freitag",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.3
+  ]
+ },
+ {
+  "name": "u4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-09-baustelle.jpg",
+  "primary": "#DC1F35",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "KABEL- & LEITUNGSBAU IN UNSTRUT-HAINICH",
+  "headline": [
+   "Tiefbaufacharbeiter (m/w/d)"
+  ],
+  "checkliste": [
+   "Kurzer Freitag",
+   "Voll ausgestatteter Firmenwagen",
+   "Jahresprämie"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ },
+ {
+  "name": "h3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-10-kabeltrommel.jpg",
+  "primary": "#DC1F35",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN HILDBURGHAUSEN",
+  "headline": [
+   "Tiefbau-",
+   "facharbeiter (m/w/d)"
+  ],
+  "subline": "Unbefristet · Kurzer Freitag",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "h4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-13-graben-team.jpg",
+  "primary": "#DC1F35",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "KABEL- & LEITUNGSBAU IN HILDBURGHAUSEN",
+  "headline": [
+   "Tiefbaufacharbeiter (m/w/d)"
+  ],
+  "checkliste": [
+   "Kurzer Freitag",
+   "Voll ausgestatteter Firmenwagen",
+   "Jahresprämie"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.35
+  ]
+ }
+]

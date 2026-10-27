@@ -1,0 +1,44 @@
+[
+ {
+  "name": "u1-karten-hook",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-arbeiter-bohrgeraet.jpg",
+  "fokus": [
+   0.75,
+   0.35
+  ],
+  "karte": "img/karte-unstrut-hainich.jpg",
+  "primary": "#DC1F35",
+  "headline": [
+   "TIEFBAU-",
+   "FACHARBEITER"
+  ],
+  "headline_zusatz": "(m/w/d) · unbefristet",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Schönstedt · Bad Langensalza · Mühlhausen"
+ },
+ {
+  "name": "h1-karten-hook",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-01-team-lachen.jpg",
+  "fokus": [
+   0.5,
+   0.35
+  ],
+  "karte": "img/karte-hildburghausen.jpg",
+  "primary": "#DC1F35",
+  "headline": [
+   "TIEFBAU-",
+   "FACHARBEITER"
+  ],
+  "headline_zusatz": "(m/w/d) · unbefristet",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Hildburghausen · Suhl · Schleusingen · Eisfeld"
+ }
+]
